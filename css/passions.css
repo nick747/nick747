@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
+    font-family: 'Overpass';
+}
+
+html {
+    background-color: #363636;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.description-container {
+    align-items: center;
+    height: 25vh; /* Optional, sets the height of the container to 100% of viewport height */
+}   
+
+.link {
+    text-decoration: none;
+}
+
+
+.non-active {
+    color: rgba(255, 255, 255, 0.3);
+    font-weight: 800;
+    font-size: 25px;
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 30px;
+    transition: color 0.3s ease-in-out;
+}
+
+.non-active:hover {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.active {
+    color: white;
+    font-weight: 800;
+    font-size: 25px;
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+#description {
+    color: white;
+    font-size: 25px;
+    /* text-align: center; */
+    margin-right: 150px;
+    margin-left: 150px;
+}
+  
+#img {
+    width: 75px;
+    height: 75px;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+
+#img_a{
+    width: 700px;
+    height: 450px;
+    margin-right: 20px;
+}
+
+#img_b{
+    margin-right: 20px;
+}
+
+#title {
+    font-size: 60px;
+    color: white;
+    font-weight: 900;
+}
+
+/* SCROLLBAR */
+::-webkit-scrollbar {
+    width: 10px;
+    background-color: #363636;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #121212;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #151515;
+}

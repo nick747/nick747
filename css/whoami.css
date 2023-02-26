@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
+    font-family: 'Overpass';
+}
+
+html {
+    background-color: #363636;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.description-container {
+    align-items: center;
+    height: 45vh; /* Optional, sets the height of the container to 100% of viewport height */
+}
+
+img {
+    margin-right: 20px;
+    border-radius: 50%;
+}
+
+.link {
+    text-decoration: none;
+}
+
+
+.non-active {
+    color: rgba(255, 255, 255, 0.3);
+    font-weight: 800;
+    font-size: 25px;
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 30px;
+    transition: color 0.3s ease-in-out;
+}
+
+.non-active:hover {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.active {
+    color: white;
+    font-weight: 800;
+    font-size: 25px;
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+#description {
+    color: white;
+    font-size: 25px;
+    /* text-align: center; */
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
+.container.button-container {
+    display: flex;
+    justify-content: center; /* centers horizontally */
+    align-items: center;
+  }
+  
+.button-31 {
+    /* background-color: #121212; */
+    border-radius: 5px;
+    border-style: none;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Overpass";
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1.5;
+    margin: 20px; /* added margin */
+    max-width: none;
+    min-height: 44px;
+    min-width: 50px;
+    outline: none;
+    overflow: hidden;
+    padding: 10px 50px 10px;
+    position: relative;
+    text-align: center;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+/* add margin only to the first two buttons */
+.button-31 + .button-31 {
+    margin-left: 20px;
+}
+
+/* add margin only to the last two buttons */
+.button-31 ~ .button-31 {
+    margin-right: 20px;
+}
+
+.button-31:hover,
+.button-31:focus {
+    opacity: .75;
+}
+  
+#img {
+    width: 75px;
+    height: 75px;
+}
+
+#title {
+    font-size: 60px;
+    color: white;
+    font-weight: 900;
+}
+
+#twitter {
+    background-color: #3882AB;
+}
+
+#github {
+    background-color: #121212;
+}
+
+#discord {
+    background-color: #203DA1;
+}
+
+#notification {
+    position: fixed;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 20px 30px;
+    background-color: #121212;
+    color: #fff;
+    border-radius: 5px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+  
+#notification.show {
+    opacity: 1;
+}

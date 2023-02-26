@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@300;400;500;600;700;800;900&display=swap');
+
+* {
+    font-family: 'Overpass';
+}
+
+html {
+    background-color: #363636;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.description-container {
+    align-items: center;
+     height: 50vh; /* Optional, sets the height of the container to 100% of viewport height */
+}
+
+img {
+    margin-right: 20px;
+    border-radius: 50%;
+}
+
+
+#title {
+    color: white;
+    font-weight: 800;
+    font-size: 96px;
+    text-align: center;
+}
+
+#description {
+    color: white;
+    font-size: 32px;
+    text-align: center;
+}
+
+.container.button-container {
+    display: flex;
+    justify-content: center; /* centers horizontally */
+    align-items: center;
+  }
+  
+.button-31 {
+    background-color: #121212;
+    border-radius: 5px;
+    border-style: none;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Overpass";
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1.5;
+    margin: 10px; /* added margin */
+    max-width: none;
+    min-height: 44px;
+    min-width: 50px;
+    outline: none;
+    overflow: hidden;
+    padding: 10px 50px 10px;
+    position: relative;
+    text-align: center;
+    text-transform: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+/* add margin only to the first two buttons */
+.button-31 + .button-31 {
+    margin-left: 20px;
+}
+
+/* add margin only to the last two buttons */
+.button-31 ~ .button-31 {
+    margin-right: 20px;
+}
+
+.button-31:hover,
+.button-31:focus {
+    opacity: .75;
+}
