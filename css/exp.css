@@ -78,6 +78,17 @@ html {
     color: white;
     font-weight: 900;
 }
+
+.link {
+    text-decoration: underline;
+    color: white;
+    text-decoration-color: rgba(255, 255, 255, 0);
+    transition: text-decoration-color 0.5s ease-in-out;
+}
+
+.link:hover {
+    text-decoration-color: white;
+}
   
 /* SCROLLBAR */
 ::-webkit-scrollbar {
