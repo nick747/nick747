@@ -8,10 +8,14 @@ Hello! I am Nick747, a teenager keen on web and app development also passionate 
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,java)](https://skillicons.dev)
 ### Backend 
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,cs,kotlin,nodejs)](https://skillicons.dev)
-### Tools/Editors/IDEs used
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,atom,idea,git,figma,xd,ai,blender,sketchup,autocad)](https://skillicons.dev)
+### Code Editors/IDEs
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,atom,idea)](https://skillicons.dev)
+### UI Tools
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,ai)](https://skillicons.dev)
+### 2D/3D
+[![My Skills](https://skillicons.dev/icons?i=autocad,sketchup,blender)](https://skillicons.dev)
 ### Others
-[![My Skills](https://skillicons.dev/icons?i=arduino,latex,lua,md,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,latex,lua,md,unity,git)](https://skillicons.dev)
 
 ## OS used
 - `Windows`, mainly
