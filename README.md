@@ -20,4 +20,4 @@ Hello! I am Nick747, a teenager keen on web and app development also passionate 
 ## OS used
 - `Windows`, mainly
 - `Macintosh`, virtual-machine
-- `Linux-Manjaro`, virtual-machine
+- `Linux-Ubuntu/Arch`, virtual-machine
