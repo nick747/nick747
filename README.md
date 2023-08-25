@@ -2,22 +2,22 @@
 Hello! I am Nick747, a teenager keen on web and app development also passionate about ui and ux design.
 
 ## Skills
-### Web Development
+### Web Development:
 [![My Skills](https://skillicons.dev/icons?i=html,js,css,bootstrap)](https://skillicons.dev)
-### App Development
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java)](https://skillicons.dev)
-### Backend 
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,kotlin,nodejs)](https://skillicons.dev)
-### Code Editors/IDEs
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,atom,idea)](https://skillicons.dev)
+### App Development:
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)
+### Backend:
+[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+### Basic Familiarity with:
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,kotlin)](https://skillicons.dev)
+### Code Editors I use
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,neovim)](https://skillicons.dev)
 ### UI Tools
-[![My Skills](https://skillicons.dev/icons?i=figma,xd,ai)](https://skillicons.dev)
-### 2D/3D
-[![My Skills](https://skillicons.dev/icons?i=autocad,sketchup,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 ### Others
-[![My Skills](https://skillicons.dev/icons?i=arduino,latex,lua,md,unity,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,latex,git)](https://skillicons.dev)
 
 ## OS used
-- `Windows`, mainly
-- `Macintosh`, virtual-machine
-- `Linux-Ubuntu/Arch`, virtual-machine
+- `Windows`, main
+- `Macintosh`, coming soon
+- `Linux-Ubuntu`, vm
