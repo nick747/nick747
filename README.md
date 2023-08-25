@@ -21,3 +21,6 @@ Hello! I am Nick747, a teenager keen on web and app development also passionate 
 - `Windows`, main
 - `Macintosh`, coming soon
 - `Linux-Ubuntu`, vm
+
+## Blog
+Strange but true I have also a blog where I post articles about Flutter development and everything that I find interesting. You can find it [here](https://nick747.hashnode.dev/)
