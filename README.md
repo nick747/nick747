@@ -1,5 +1,5 @@
 # Hi! I am Nick747
-Hello! I am Nick747, a teenager keen on web and app development also passionate about ui and ux design.
+I'm trying to be a web and app developer :). I also like UI and UX designing
 
 ## Skills
 ### Web Development:
