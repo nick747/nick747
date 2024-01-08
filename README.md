@@ -15,4 +15,4 @@ I'm trying to be a web and app developer :). I also like UI and UX designing
 - `Linux`, dual-boot
 
 ## A cool card
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nick747&layout=compact&theme=gruvbox)
