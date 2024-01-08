@@ -7,7 +7,7 @@ I'm trying to be a web and app developer :). I also like UI and UX designing
 ### App Development:
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart)
 ### Basic Familiarity with:
-![My Skills](https://skillicons.dev/icons?i=python,c,cpp,kotlin,react,tailwind)
+![My Skills](https://skillicons.dev/icons?i=python,c,cpp,kotlin,react,tailwind,svelte,astro)
 ### Others
 ![My Skills](https://skillicons.dev/icons?i=arduino,latex,git)
 
