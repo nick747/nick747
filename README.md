@@ -14,8 +14,8 @@ I'm trying to be a web and app developer :). I also help friends with UI & UX de
 ![My Skills](https://skillicons.dev/icons?i=python,c,cpp,kotlin,react,tailwind,svelte,astro)
 
 ## OS used
-- `Windows`, main
-- `Macintosh`, coming soon
+- `Windows`, alt
+- `Macintosh`, main
 - `Linux`, dual-boot
 
 ## A cool card
